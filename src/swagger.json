@@ -2,10 +2,10 @@
 {
     "openapi": "3.0.0",
     "info": {
-      "title": "Ignite Challange 05",
-      "description": "Ignite Challange 05",
+      "title": "API User Manager",
+      "description": "API to create ans list users",
       "contact": {
-        "email": "oi@renatohidekiosaka.com.br"
+        "email": "jorgediasdsg@gmail.com"
       },
       "version": "1.0.0"
     },
